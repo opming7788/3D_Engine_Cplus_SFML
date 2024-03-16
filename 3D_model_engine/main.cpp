@@ -293,7 +293,7 @@ int main()
 			}
 		}
 
-		// 清空窗口
+		
 
 
 		if (clock.getElapsedTime().asSeconds() >= ElapsedTime)
@@ -308,8 +308,7 @@ int main()
 
 
 
-		// 顯示
-
+		
 	}
 
 
